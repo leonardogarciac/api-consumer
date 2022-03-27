@@ -1,5 +1,5 @@
 # API consumer example with Spring Boot 
-Use [agify.io](https://agify.io/) API to predict the age of a parson based on a given name.
+Use [agify.io](https://agify.io/) API to predict the age of a person based on a given name.
 
 ###Build it
 
